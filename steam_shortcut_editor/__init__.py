@@ -1,0 +1,2 @@
+from steam_shortcut_editor.parser import parse_file
+from steam_shortcut_editor.writer import write_file
